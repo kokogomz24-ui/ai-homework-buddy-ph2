@@ -1,0 +1,6 @@
+{
+  "name": "AI Homework Buddy PH",
+  "description": "Smart homework companion and learning dashboard tailored for Filipino elementary students in Grades 1 to 6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
